@@ -1,98 +1,24 @@
-<h3 align="center">
-  Welcome to Mohamed Hosam's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# 💫 About Me:
+ 🎯 I'm currently working on<br>Building scalable backend systems @QuantaraTech and running LLM experiments @Turing (OpenAI client)<br><br>🤝 I'm looking to collaborate on<br>AI-powered web apps, backend architecture, and open-source developer tools<br><br>🙋‍♂️ I'm looking for help with<br>Contributing to GenAI open-source projects and learning advanced system design<br><br>🌱 I'm currently learning<br>Scaling microservices · Vector DBs · Prompt engineering · LangChain · Firebase<br><br>💬 Ask me about<br>Backend development · LLM Ops · Teaching code to kids · Project management<br>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20%F0%9F%92%BB;LLM%20Ops%20Engineer%20%F0%9F%A7%A0;Co-Founder%20@QuantaraTech%20%F0%9F%92%BC;Always%20learning%20new%20things%20%F0%9F%8C%B1&font=Fira%20Code&center=true&width=440&height=45&color=00ADB5&vCenter=true&size=22">
-  </a>
-</p>
 
-<div align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mo7amed7osam?logo=github">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Mo7amed7osam?logo=github">
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.hosam.45896) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//mo7amed-hosam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.7osamm) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mo7amed7osam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mo7amed7osam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amed7osam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3> 👨‍💻 &nbsp;About Me
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
-</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mo7amed7osam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p>
-I'm Mohamed Hosam, a backend developer & LLM Ops engineer based in Cairo 🇪🇬. <br/>
-Currently co-founding <strong>QuantaraTech</strong>, building scalable full-stack apps and delivering LLM experiments for <strong>Turing (client: OpenAI)</strong>. <br/>
-I have a strong passion for backend architecture, GenAI experimentation, and teaching tech to youth 👨‍🏫.
-</p>
-
-<ul>
-  <li>🔭 &nbsp; Currently building GenAI apps and NLP pipelines</li>
-  <li>🚀 &nbsp; Teaching programming across 92+ centers in Egypt</li>
-  <li>📚 &nbsp; Always learning: Firebase, LangChain, System Design</li>
-  <li>💬 &nbsp; Ask me about Node.js, MongoDB, REST APIs, LLM Ops</li>
-  <li>🏆 &nbsp; Winner: Tech Leaders Initiative (200+ students reached)</li>
-</ul>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mo7amed7osam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mo7amed7osam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Tech Stack
-
-**Backend & AI Ops**
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</div>
-
-**Tools & Methodologies**
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white"/>
-</div>
-
----
-
-### 🔥 GitHub Stats
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed7osam&theme=tokyonight&show_icons=true"/>
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amed7osam&theme=tokyonight"/>
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7amed7osam&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💬 Quick Facts
-
-```markdown
-🛠 I'm currently working on:
-- GenAI-powered apps @Turing
-- Backend APIs & dashboards @QuantaraTech
-
-🤝 I'm looking to collaborate on:
-- Open-source backend projects
-- NLP & AI-powered tools
-
-🙋‍♂️ I'm looking for help with:
-- Vector databases & advanced LangChain pipelines
-
-🌱 I'm currently learning:
-- Firebase, microservices, prompt engineering
-
-💬 Ask me about:
-- Node.js | MongoDB | LLM Ops | Mentorship
-
-⚡ Fun fact:
-I helped manage 92 training centers and taught 200+ kids to code!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
